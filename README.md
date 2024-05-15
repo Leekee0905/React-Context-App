@@ -1,5 +1,6 @@
 # Context API를 사용한 결제 페이지
-React Context를 사용하여 주문 상품 가격 계산을 하는 간단한 페이지
+React Context를 사용하여 주문 상품 가격 계산을 하는 간단한 페이지  
+
 강의: https://fastcampus.co.kr/classroom/203720
 
 ## createContext
